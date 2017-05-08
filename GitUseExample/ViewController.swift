@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func GitButtonTapped(_ sender: Any) {
-        print("I am git button")
+        print("Yay i'm finished")
     }
 
 }
